@@ -21,7 +21,6 @@
 ```
 | VS Code에서 폴더와 파일 만들기 |
 
-![alt text](image.png)
 ```
 새 폴더 만들기 > VS code에서 그 폴더 열기 > 파일 만들기 > VS Code 안에서 터미널 열기
 ```
